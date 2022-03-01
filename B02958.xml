@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno regni Caroli Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, decimo septimo. At the Parliament begun at Westminster the third day of November, Anno Dom. 1640. In the 16. yeer of the reign of our most gracious soveraign Lord, Charles, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02958</idno>
+            <idno type="STC">Wing E1121C</idno>
+            <idno type="STC">ESTC R175041</idno>
+            <idno type="EEBO-CITATION">52612405</idno>
+            <idno type="OCLC">ocm 52612405</idno>
+            <idno type="VID">179433</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02958)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179433)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2788:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno regni Caroli Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, decimo septimo. At the Parliament begun at Westminster the third day of November, Anno Dom. 1640. In the 16. yeer of the reign of our most gracious soveraign Lord, Charles, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[11] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, Printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within ornamental border.</note>
+                  <note>Royal arms on frontispiece; headpiece, initial letters.</note>
+                  <note>Text in black letter.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+                  <note>An act for the securing of such moneys as are or shall be due to the inhabitants of the countie of York, and the other adjoyning counties, wherein his Majesties armie is or hath been billeted -- An act for the declaring unlawful and void the late proceedings touching ship-money, and for the vacating of all records and processe concerning the same.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  Law and legislation --  England --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179433:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+            <p>
+               <figure>
+                  <figure>
+                     <q>HONI SOIT QVI MAL Y PENSE</q>
+                     <figDesc>royal blazon or coat of arms</figDesc>
+                  </figure>
+                  <p>ANNO REGNI CAROLI REGIS ANGLIAE, SCOTIAE, FRANCIAE, &amp; HIBERNIAE, DECIMO SEPTIMO.</p>
+                  <p>At the Parliament begun at <hi>Weſtminſter</hi> the third day of November, <hi>Anno Dom.</hi> 1640.</p>
+                  <p>In the 16. yeer of the Reign of our moſt gracious Soveraign Lord, CHARLE<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c.</p>
+                  <p>LONDON, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rinted by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL.</p>
+                  <p>1641.</p>
+                  <p>Cum Privilegio</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:179433:2"/>
+            <!-- PDF PAGE 116 -->
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q> DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <pb facs="tcp:179433:2"/>
+               <!-- PDF PAGE 116 -->
+               <dateline>
+                  <date>
+                     <g ref="char:leaf">❧</g> ANNO XVII. Caroli Regis.</date>
+               </dateline>
+            </opener>
+            <head>
+               <g ref="char:leaf">❧</g> An Act for the ſecuring of ſuch Moneys as are or ſhall be due to the Inhabitants of the Countie of <hi>York,</hi> and the other adjoyning Counties, wherein His Ma<g ref="char:EOLhyphen"/>jeſties Armie is or hath been Billetted, for the Billet of the Souldiers of the ſaid Army; as alſo to certain officers of the ſaid Army who do for<g ref="char:EOLhyphen"/>bear part of their pay, according to an Order in that behalf made in the Commons Houſe of Parliament this preſent Seſsion, for ſuch part of their pay as they ſhall ſo forbear.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as divers of the Inha<g ref="char:EOLhyphen"/>bitants of the ſeverall Counties of <hi>York, Lincolne, Nottingham,</hi> and other adjoyning Counties in the ſeverall places where His Majeſties Armie is, and hath been Quartered and Billetted for His Majeſties Service, have at their great charges, and to their much impoveriſhment kept and maintained the ſaid Armie for certain Mo<g ref="char:EOLhyphen"/>neths
+<pb facs="tcp:179433:3"/>
+               <!-- PDF PAGE 117 -->by paſt, without any payment or ſatisfaction for the ſame: And whereas they the ſaid Inhabit<g ref="char:EOLhyphen"/>ants of the ſaid ſeverall Counties have been deſired, and are contented to forbear the Moneys due, and to be due to them reſpectively, for the ſaid Billet, un<g ref="char:EOLhyphen"/>till the Moneth of November next, (if there be not means to pay and diſcharge the ſame in the mean time) And whereas divers of the Officers of the ſaid Armie are likewiſe contented to forbear ſome part of their Pay, according to an Order in that be<g ref="char:EOLhyphen"/>half made in the Commons Houſe of Parliament this preſent Seſſion, untill the time aforeſaid.</p>
+            <p>To the end therefore that both the ſaid Inha<g ref="char:EOLhyphen"/>bitants, and the ſaid Officers may be ſecured for the true payment of the ſaid Moneys accordingly, and to avoid or decide all differences and controverſies which might ariſe, upon the ſeverall accounts be<g ref="char:EOLhyphen"/>tween the ſaid Inhabitants and the Souldiers, for the certaintie of the ſaid Billet Money: May it pleaſe Your moſt Excellent Majeſtie, that it may be Enacted; And be it enacted by Your moſt Excellent Majeſtie, the Lords and Commons in this preſent Parliament aſſembled, and by authority of the ſame, that all and every the ſum or ſums of Money which now are, or before the time of payment of the ſaid Billet Money, ſhall appear to be due, and owing ei<g ref="char:EOLhyphen"/>ther to the ſaid Inhabitants or any of them, for the Billet of the ſaid Armie, or any part thereof, or to any of the ſaid Officers, according to the ſaid Order ſhall upon the tenth day of November next coming, or ſooner, if there be means to do it, be well and true<g ref="char:EOLhyphen"/>ly paid, and diſcharged to the ſeverall perſons to whom the ſame are or ſhall be due reſpectively, out of the Moneys which ſhall be raiſed by vertue of an
+<pb facs="tcp:179433:3"/>
+               <!-- PDF PAGE 117 -->Act made in this preſent Seſſion of Parliament, in<g ref="char:EOLhyphen"/>tituled, <hi>An Act for the ſpeedie proviſion of Money for the disbanding the Armies, and ſetling the Peace of the two Kingdoms of England and Scotland;</hi> by the Treaſurers, or perſons appointed by that Act for the receipt of the Moneys ſo to be raiſed, or by ſuch other wayes and means as the Houſe of Commons ſhall think fit and appoint, in manner and form following; That is to ſay, That the perſons appointed by the ſaid Act for the receipt of ſuch part of the ſaid Moneys, as is by vertue thereof payable at the Chamber in the Ci<g ref="char:EOLhyphen"/>tie of <hi>York,</hi> ſhall out of the ſame, at, or in the ſaid Chamber, upon the ſaid tenth day of November (or ſooner, if there be means to do it) well and truely pay unto the hands of Sir <hi>William Liſter,</hi> Sir <hi>Gervaſe Cutler,</hi> Sir <hi>Arthur Ingram</hi> the younger, and Sir <hi>John Ramſden,</hi> Knights, <hi>John Kay,</hi> and <hi>Peter Jennings,</hi> Eſquires, or to any two, or more of them, all ſuch Moneys as are or ſhall be due, as aforeſaid, to the ſeverall Inhabitants of the Weſt-Riding of the ſaid Countie of <hi>Yorke</hi> reſpectively, for the ſaid Billet Money: To the hands of Sir <hi>Mar<g ref="char:EOLhyphen"/>maduke Wyvell,</hi> Knight and Baronet, Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Darley,</hi> Knight, <hi>Bryan Stapleton, John Calverley, Henry Anderſon, John Dodſworth</hi> the younger, <hi>James Pennyman, William Calye,</hi> and <hi>Francis Laſſells</hi> Eſquires, or to any two or more of them, all ſuch Moneys as are or ſhall be due, as aforeſaid, to the ſeverall In<g ref="char:EOLhyphen"/>habitants of the North-Riding of the ſaid County of <hi>York,</hi> and of ſuch places within the County of <hi>Durham,</hi> where any of His Majeſties ſaid Army is, or hath been Quartered or Billetted reſpectively, for the Billet of the ſaid Souldiers. To the hands of <hi>John Legard</hi> of <hi>Gaunton, Richard Remington, Chriſtopher
+<pb facs="tcp:179433:4"/>
+                  <!-- PDF PAGE 118 -->Appleyard, Francis Munckton,</hi> and <hi>Edward Paler</hi> Eſ<g ref="char:EOLhyphen"/>quires, or to any two or more of them, all ſuch Mo<g ref="char:EOLhyphen"/>neys as are or ſhall be due, as aforeſaid, to the ſe<g ref="char:EOLhyphen"/>verall Inhabitants of the Eaſt-Riding of the ſaid County of <hi>York</hi> reſpectively, for the ſaid Billet-Mo<g ref="char:EOLhyphen"/>ney. To the hands of <hi>Lancelot Roper, James Watkinſon,</hi> and <hi>Nicholas Denman</hi> Gentlemen, or to any two of them, all ſuch Moneys as are or ſhall be due, as aforeſaid, to the ſeverall Inhabitants of the Town and County of <hi>Kingſton upon Hull</hi> reſpective<g ref="char:EOLhyphen"/>ly, for the Billet of the ſaid ſouldiers. To the hands of Sir <hi>William Fairfaxe,</hi> and Sir <hi>Thomas Harriſon</hi> Knights, <hi>John Geldart</hi> Merchant, and <hi>Robert Knight</hi> Grocer, or to any three of them, all ſuch Moneys as are or ſhall be due, as aforeſaid, to the ſeverall Inhabitants of the ſaid City of <hi>York,</hi> and County of the ſame reſpectively, for the ſaid Billet-Money. To the hands of Sir <hi>William Pelham</hi> Knight, <hi>Wil<g ref="char:EOLhyphen"/>loughbie Hickman, Charles Pelham,</hi> and <hi>Thomas Sander<g ref="char:EOLhyphen"/>ſon</hi> Eſquires, or any two or more of them, all ſuch Moneys as are or ſhall be due, as aforeſaid, to the ſeverall Inhabitants of the ſaid County of <hi>Lincoln</hi> reſpectively for the ſaid Billet-Money. And to the hands of <hi>John Nevile, An<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hony Ayre, William Moſeley,</hi> and <hi>William Sanderſon</hi> Eſquires, or to any two or more of them, all ſuch Moneys as are or ſhall be due, as aforeſaid, to the ſeverall Inhabitants of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Nottingham</hi> reſpectively, for the ſaid Billet-Money. And that the ſaid Moneys ſo to be paid, and every part thereof, ſhall be paid according to the Certificate for ſo much as is already certainly certi<g ref="char:EOLhyphen"/>fied, and for the reſidue after the rate of three ſhil<g ref="char:EOLhyphen"/>lings by the week for every Common foot Souldi<g ref="char:EOLhyphen"/>er, as ſhall appear due by a Certificate to be taken upon the Diſbanding, unleſſe where it ſhall appear
+<pb facs="tcp:179433:4"/>
+               <!-- PDF PAGE 118 -->that there hath been ſome expreſſe agreement for an other<g ref="char:EOLunhyphen"/>rate; and for the Horſmen after the rate of ſeven ſhillings and ſix pence by the week for every common Souldier and his Horſe, unleſſe where it ſhall appear that there hath been expreſſe agreement for another rate: And for the Officers both of Horſe and Foot, ſuch rates as ſhall be ſet down by the Lord Generall of the Army, and the Lord Lieutenant of the County of <hi>York.</hi>
+            </p>
+            <p>And be it further enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, that the Acquittances of ſo many, and ſuch of the ſaid perſons above named, for the receipt of the ſaid Moneys due to the ſaid ſeverall Inhabitants of the ſeverall Counties and places above mention<g ref="char:EOLhyphen"/>ed, as ſhall receive the ſame deſpectively, as afore<g ref="char:EOLhyphen"/>ſaid, ſhall be ſufficient diſcharges to, and for the ſaid perſons from whom they ſhall ſo receive the ſame by vertue of this Act, for ſuch ſeverall ſums of Money as they ſhall ſo receive reſpectively.</p>
+            <p>And be it likewiſe further enacted by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That the perſons, who ſhall by ver<g ref="char:EOLhyphen"/>tue of the ſaid recited Act receive ſuch part of the ſaid Moneys as is thereby payable at or in the Chamberlains Office in Guildhall within the City of <hi>London,</hi> ſhall out of the ſame, at or in the ſaid Chamberlains Office, upon the ſaid tenth day of November (or ſooner, if there be means to do it) pay to the hands of Sir <hi>William Vuedall</hi> Knight, Treaſu<g ref="char:EOLhyphen"/>rer of His Majeſties ſaid Army, all ſuch Moneys as are or ſhall be due, as aforeſaid, to the ſeverall Offi<g ref="char:EOLhyphen"/>cers of the ſaid Army, who ſhall forbear the ſame according to the Order above mentioned; And that the Acquittances of the ſaid Sir <hi>William Vuedall</hi> ſhall be a ſufficient diſcharge for what he ſhall ſo receive.</p>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:179433:5"/>
+            <!-- PDF PAGE 119 -->
+            <opener>
+               <dateline>
+                  <date>¶ ANNO XVII. Caroli Regis.</date>
+               </dateline>
+            </opener>
+            <head>
+               <g ref="char:leaf">❧</g> An Act for the declaring unlawfull and void the late proceed<g ref="char:EOLhyphen"/>ings touching Ship-money, and for the vacating of all Records and Pro<g ref="char:EOLhyphen"/>ceſſe concerning the ſame.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas divers Writs of late time, iſſued under the great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> commonly called <hi>Shipwrits,</hi> for the charging of the Ports, Towns, Cities, Boroughs, and Counties of this Realm reſpectively, to provide and furniſh certain Ships for His Majeſties ſervice: And whereas upon the execution of the ſame Writs, and Returns of <hi>Certioraries</hi> thereupon made, and the ſending the ſame by <hi>Mittimus</hi> into the Court of Ex<g ref="char:EOLhyphen"/>chequer, Proceſſe hath been thence made againſt
+<pb facs="tcp:179433:5"/>
+               <!-- PDF PAGE 119 -->ſundry perſons pretended to be charged by way of Contribution, for the making up of certain ſums aſſeſſed for the providing of the ſaid Ships, and in eſpeciall in Eaſter Term, in the thirteenth yeer of the Reign of our Soveraign Lord the King that now is, a Writ of <hi>Scire facias</hi> was awarded out of the Court of Exchequer, to the then Sheriffe of <hi>Bucking<g ref="char:EOLhyphen"/>ham-ſhire,</hi> againſt <hi>John Hampden</hi> Eſquire to appear and ſhew cauſe, why he ſhould not be charged with a certain ſum ſo aſſeſſed upon him, upon whoſe ap<g ref="char:EOLhyphen"/>pearance and demurrer to the proceedings therein, the Barons of the Exchequer adjourned the ſame caſe in<g ref="char:EOLhyphen"/>to the Exchequer-chamber, where it was ſolemnly argued divers dayes, and at length it was there a<g ref="char:EOLhyphen"/>greed by the greater part of all the Iuſtices of the Courts of Kings Bench, and Common Pleas, and of the Barons of the Exchequer there aſſembled, that the ſaid <hi>John Hampden</hi> ſhould be charged with the ſaid ſum ſo as aforeſaid aſſeſſed on him; The main grounds and reaſons of the ſaid Iuſtices and Barons which ſo agreed, being that when the good and ſafety of the Kingdom in generall is concerned, and the whole Kingdom in danger, the King might by Writ under the Great Seal of <hi>England,</hi> command all the Subjects of this his Kingdom, at their charge to provide and furniſh ſuch number of Ships with Men, Victuals, and Munition, and for ſuch time as the King ſhould think ſit, for the defence and ſafegard of the Kingdom, from ſuch danger and perill, and that by Law the King might compell the doing thereof, in caſe of refuſall, or refractarineſſe, and that the King is the ſole Iudge both of the dan<g ref="char:EOLhyphen"/>ger, and when, and how the ſame is to be prevented, and avoided, according to which grounds, and rea<g ref="char:EOLhyphen"/>ſons
+<pb facs="tcp:179433:6"/>
+               <!-- PDF PAGE 120 -->all the Iuſtices of the ſaid Courts of Kings Bench, and Common Pleas, and the ſaid Barons of the Exchequer having been formerly conſulted with by His Majeſties command, had ſet their hands to an extrajudiciall opinion expreſſed to the ſame pur<g ref="char:EOLhyphen"/>poſe, which opinion with their names thereunto was alſo by His Majeſties command inrolled in the Courts of Chancery, Kings Bench, Common Pleas, and Exchequer, and likewiſe entred among the Remembrances of the Court of Star-Cham<g ref="char:EOLhyphen"/>ber, and according to the ſaid agreement of the ſaid Iuſtices, and Barons, Iudgement was given by the Barons of the Exchequer, That the ſaid <hi>John Hampden</hi> ſhould be charged with the ſaid ſum ſo aſ<g ref="char:EOLhyphen"/>ſeſſed on him; And whereas ſome other Actions and Proces, depend, and have depended in the ſaid Court of Exchequer, and in ſome other Courts againſt o<g ref="char:EOLhyphen"/>ther perſons, for the like kinde of charge, grounded upon the ſaid Writs, commonly called <hi>Shipwrits,</hi> all which Writs, and proceedings as aforeſaid, were ut<g ref="char:EOLhyphen"/>terly againſt the Law of the Land:</p>
+            <p>Be it therefore declared and Enacted by the Kings moſt Excellent Majeſty, and the Lords and Commons in this preſent Parliament aſſembled, and by the Authoritie of the ſame, That the ſaid charge impoſed upon the Subject, for the providing and furniſhing of Ships, commonly called Ship<g ref="char:EOLhyphen"/>money, and the ſaid extrajudiciall opinion of the ſaid Iuſtices and Barons, and the ſaid Writs, and every of them, and the ſaid agreement or opinion of the greater part of the ſaid Iuſtices and Barons, and the ſaid Iudgement given againſt the ſaid <hi>John Hampden</hi> were, and are contrary to, and againſt the Laws and Statutes of this Realm, the right of
+<pb facs="tcp:179433:6"/>
+               <!-- PDF PAGE 120 -->propertie, the libertie of the Subjects, former reſolu<g ref="char:EOLhyphen"/>tions in Parliament, and the Petition of right made in the third yeer of the Reign of His Majeſtie that now is.</p>
+            <p>And it is further declared and Enacted by the Au<g ref="char:EOLhyphen"/>thoritie aforeſaid, That all and every the particu<g ref="char:EOLhyphen"/>lars prayed or deſired in the ſaid Petition of right, ſhall from henceforth be put in execution according<g ref="char:EOLhyphen"/>ly, and ſhall be firmly and ſtrictly holden and ob<g ref="char:EOLhyphen"/>ſerved, as in the ſame Petition they are prayed and expreſſed, and that all and every the Records and re<g ref="char:EOLhyphen"/>membrances of all and every the Iudgement, In<g ref="char:EOLhyphen"/>rolments, Entry and proceedings, as aforeſaid, and all and every the proceedings whatſoever, upon, or by pretext or colour of any of the ſaid Writs, com<g ref="char:EOLhyphen"/>monly called Ship writs, and all and every the De<g ref="char:EOLhyphen"/>pendents on any of them, ſhall be Deemed and Ad<g ref="char:EOLhyphen"/>judged to all intents, conſtructions, and purpoſes, to be utterly void and diſannulled, and that all and every the ſaid Iudgement, Inrolments, Entryes, Proceedings, and Dependents of what kinde ſo<g ref="char:EOLhyphen"/>ever, ſhall be vacated and cancelled in ſuch manner and form as Records uſe to be that are vacated.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
